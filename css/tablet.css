@@ -1,0 +1,22 @@
+.header__title-container h1 {
+  font-size: 4rem;
+  line-height: 4rem;
+}
+.header__title-container p {
+  font-size: 2rem;
+}
+.main-tables-container {
+  display: flex;
+  width: 930px;
+  margin: 0 auto;
+}
+.product-cards {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  width: 930px;
+  margin: 0 auto;
+}
+.plans-container__slider {
+  justify-content: center;
+}
